@@ -1,3 +1,3 @@
 lodash-py==0.0.1
-log4python==1.0.3
-six==1.16.0
+log4python==0.2.12
+six==1.4.1
